@@ -1,0 +1,21 @@
+{
+    "id": "blablacar.svg-to-icons-iOS",
+    "name": "SVG to iOS Icons",
+    "description": "SVG to iOS icons exporter",
+    "author": "BlaBlaCar and Supernova",
+    "organization": "BlaBlaCar.com",
+    "homepage": "https://blablacar.com",
+    "version": "1.0.0",
+    "usesBrands": true,
+    "usesThemes": false,
+    "executable": "/run/build.js",
+    "engine": "latest",
+    "tags": [
+        "Assets",
+        "Icons",
+        "Images",
+        "SVG",
+        "React",
+        "Components"
+    ]
+}
